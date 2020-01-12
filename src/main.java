@@ -13,6 +13,7 @@ public class main {
 		// Math.random()0*3<=x<1*3 =>*3
 		// 0<=x<3 => =+1
 		// 1<= x <4
+		System.out.println("아 나도 화장실....");
 		System.out.println("가위바위보 시작");
 		System.out.println("숫자를 입력해주세요");
 		System.out.println("가위:1 바위:2  보:3");
