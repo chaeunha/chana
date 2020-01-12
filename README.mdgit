@@ -1,0 +1,1 @@
+"# chana"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/chaeunha/chana.gitgit push -u origin mastergit remote add origin https://github.com/chaeunha/chana.gitgit push -u origin masterYou can initialize this repository with code from a Subversion, Mercurial, or TFS project.
